@@ -1,0 +1,1 @@
+# -AI-for-monitoring-satellite-images-for-the-presence-of-equipment-for-military-operations.
