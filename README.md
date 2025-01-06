@@ -6,7 +6,7 @@
 First, you need to open the file on Google Drive: https://drive.google.com/drive/folders/1Q5xnTTqbuQ-amEl0T7Hpbv_S19DWyLWq?usp=sharing
 ![Відкрийте файл за посиланням](8.png)
 
-### 1. Upload a files
+### 1. Upload files
 Download the files to your personal computer
 
 ![Завантажте файл](9.png)
