@@ -1,4 +1,4 @@
-# Інструкція до запуску
+# Instructions for launching
 
 ## Steps to use the program
 
@@ -6,8 +6,8 @@
 First, you need to open the file on Google Drive: https://drive.google.com/drive/folders/1Q5xnTTqbuQ-amEl0T7Hpbv_S19DWyLWq?usp=sharing
 ![Відкрийте файл за посиланням](8.png)
 
-### 1. Upload a file
-Download the file to your personal computer
+### 1. Upload a files
+Download the files to your personal computer
 
 ![Завантажте файл](9.png)
 
